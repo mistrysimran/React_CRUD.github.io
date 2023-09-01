@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Simran",
+      "username": "simran",
+      "email": "simran@gmail.com",
+      "phone": "9876543219",
+      "id": 1
+    },
+    {
+      "name": "admin2",
+      "username": "admin123",
+      "email": "admin@gmail.com",
+      "phone": "0001112223",
+      "id": 2
+    }
+  ]
+}
